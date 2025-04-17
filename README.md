@@ -1,2 +1,3 @@
-# customer-classification
-This project focuses on classifying customers into different segments based on their behavior and attributes using machine learning techniques. By analyzing customer data such as demographics, purchasing patterns, and browsing history.
+This project focuses on classifying customers into different segments based on their behavior and attributes using machine learning techniques. By analyzing customer data such as demographics, purchasing patterns, and browsing history, we aim to build a predictive model that helps businesses understand and target different customer groups more effectively. The goal is to improve customer engagement, optimize marketing strategies, and enhance overall business performance.
+
+We employ data preprocessing, feature engineering, and classification algorithms like Decision Trees, Random Forest, and Logistic Regression to achieve accurate segmentation. The model is evaluated using metrics such as accuracy, precision, recall, and F1-score.
